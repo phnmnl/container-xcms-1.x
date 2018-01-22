@@ -1,11 +1,11 @@
 ![Logo](XCMS_logo.png)
 
-# XCMS
-Version: 1.50.1
+# XCMS-1.x
+Version: 1.52
 
 ## Short Description
 
-XCMS is a framework for processing and visualization of chromatographically separated and single-spectra mass spectral data.
+XCMS is a framework for processing and visualization of chromatographically separated and single-spectra mass spectral data. This container tracks the 1.x series version.
 
 ## Description
 
